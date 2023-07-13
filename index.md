@@ -1,4 +1,4 @@
-![Sklep motoryzacyjny EMKA Gniezno](/img/logo.png "Sklep motoryzacyjny EMKA Gniezno")
+![Sklep motoryzacyjny EMKA Gniezno](img/logo.png "Sklep motoryzacyjny EMKA Gniezno")
 
 ## Posty
 
