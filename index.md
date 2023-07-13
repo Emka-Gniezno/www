@@ -1,4 +1,5 @@
 <div style="margin: auto;  text-align: center;">
+
 ![Sklep motoryzacyjny EMKA Gniezno](img/logo.png "Sklep motoryzacyjny EMKA Gniezno")
 
 <a href="tel:+48614155331">+48 614 1 55 33 1</a>
