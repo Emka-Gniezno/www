@@ -1,6 +1,8 @@
 <div style="margin: auto;  text-align: center">
 <a href="/"><img src="img/logo.png" alt="Sklep motoryzacyjny EMKA Gniezno" /></a>
 
+<h2>Telefon</h2>
+
 <address>
 <p>
  <a style="font-size: 25pt" href="tel:+48614155331">+48 614 1 55 33 1</a>
