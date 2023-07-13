@@ -1,0 +1,12 @@
+url: "https://emka.gniezno.pl"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+description: >
+  Sklep motoryzacyjny EMKA Gniezno
+title: Sklep motoryzacyjny EMKA Gniezno
+
+theme: minima
+minima:
+  skin: classic
