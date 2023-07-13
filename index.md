@@ -1,5 +1,3 @@
-# [Sklep motoryzacyjny EMKA Gniezno](https://emka.gniezno.pl)
-
 ![Sklep motoryzacyjny EMKA Gniezno](/img/logo.png "Sklep motoryzacyjny EMKA Gniezno")
 
 ## Posty
